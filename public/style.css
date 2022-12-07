@@ -40,3 +40,7 @@ main {
 a {
   text-decoration: none;
 }
+
+iframe {
+  width: 100%;
+}
